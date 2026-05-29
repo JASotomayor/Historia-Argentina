@@ -1,0 +1,10 @@
+# Versiones standalone (envío offline, no se publican)
+*-standalone.html
+
+# Nota de trabajo interna
+prompt-redise_o.md
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
